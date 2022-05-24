@@ -1,4 +1,6 @@
 <?php
+
+/*
 /* Se o botão inserir do formulário for acionado
 (ou seja, ele passará a estar definido ou existir) */
 if( isset($_POST['inserir']) ){
